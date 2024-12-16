@@ -17,7 +17,7 @@
 ## 5.model training
 ## 6.model testing
 # Model features
-## The modelk uses a machine learning algorithm to predict house sale prices.
+## The model uses a machine learning algorithm to predict house sale prices.
 ## The model is based on features such as square footage,number of bedrooms,and number of bathrooms
 # Conclusion
 ## In this project,I developed a machine learning model that predicts house sale prices.The model performed very well ,giving 100% accuracy and can be used to predict house sale prices.
